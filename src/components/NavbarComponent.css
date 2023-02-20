@@ -1,0 +1,64 @@
+.navigationbar{
+    width: 100vw;
+    height: 10vh;
+    top:0; 
+    left:0;
+    position: fixed;
+    z-index: 999;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    color: aliceblue;
+    background-color: #555;
+}
+
+.brand{
+    font-size: 1.8rem;
+    font-style: italic;
+    margin: 0 5px;
+    padding: 0 10px;
+}
+
+.nav-Links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-item{
+    margin: 0 10px;
+    padding: 0 10px;
+    font-size: 1.2rem;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.nav-item > a:link {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.nav-item > a:visited {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.nav-item > a:hover {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.nav-item > a:active {
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.active{
+    padding: 5px 10px;
+    font-size: 1.1rem;
+    background-color: aliceblue !important;
+    color: #555 !important;
+}
