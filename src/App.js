@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Navigation />
-      <div className="container-fluid" id="contentDiv">
+      <div className="container" id="contentDiv">
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route exact path="/ornaments" element={<Ornaments />} />

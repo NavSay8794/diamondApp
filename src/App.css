@@ -16,9 +16,12 @@
 
 #contentDiv{
   top: 10vh;
-  border: 1px solid black;
+  border: 1px solid aliceblue;
   position: relative !important;
   min-height: 100vh;
+  background-color: #222;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .App-header {
