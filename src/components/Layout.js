@@ -1,13 +1,13 @@
 import React from "react";
 
-const images = [
-  "../assets/diamondImage1.jpg",
-  "../assets/diamondImage2.jpg",
-  "../assets/diamondImage3.jpg",
-  "../assets/marqdiamond1.jpg",
-  "../assets/marqdiamond2.jpg",
-  "../assets/marqdiamond3.jpg",
-];
+// const images = [
+//   "../assets/diamondImage1.jpg",
+//   "../assets/diamondImage2.jpg",
+//   "../assets/diamondImage3.jpg",
+//   "../assets/marqdiamond1.jpg",
+//   "../assets/marqdiamond2.jpg",
+//   "../assets/marqdiamond3.jpg",
+// ];
 
 let imgurl =
   "https://th.bing.com/th?id=OIP.gPHDRR1m881ZWHiZG4v0EwHaI_&w=226&h=275&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2";
